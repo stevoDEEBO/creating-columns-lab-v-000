@@ -62,8 +62,8 @@ img:hover {
 }
 
 .med {
-  small.width x 2;
-  small.height: auto;
+  width: 64%;
+  height: auto;
 }
 
 .large {
