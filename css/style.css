@@ -62,7 +62,8 @@ img:hover {
 }
 
 .medium {
-  .small.width: 200%;
+  .small.width x 200%;
+  .small.height: auto;
 }
 
 .large {
