@@ -51,8 +51,8 @@ img:hover {
   display: inline-block;
   width: 32%;
   vertical-align: top;
-  /*border: 1px solid;
-  padding: 10px;*/
+  border: 1px solid;
+  padding: 10px;
 }
 
 /* create your tile classes! we recommend .small .med .large */
